@@ -179,6 +179,7 @@ calc.html
 
 ## OUTPUT:
 ![Screenshot 2024-05-09 081024](https://github.com/Guhanandan/Calc/assets/100425381/c6de0e0a-7353-4521-bff1-341e76c37d33)
+![Screenshot 2024-05-09 081148](https://github.com/Guhanandan/Calc/assets/100425381/3c1accef-92d6-4647-89e5-ad4c4d5480a0)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
